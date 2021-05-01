@@ -1,10 +1,6 @@
-# Phaser 3 Webpack Project Template
+# Infinite Jumper
 
 ## Development
-
-```bash
-npm start
-```
 
 Includes ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/) that includes hot-reloading for development and production-ready builds.
 
